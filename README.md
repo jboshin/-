@@ -3,7 +3,7 @@
 * main_program.py
   * 抓取陀螺儀資料
 * run_program.py
-  * 執行程式
+  * 執行主程式
 * mpu_test.py
   * 陀螺儀測試程式
 
